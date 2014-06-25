@@ -5,28 +5,28 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>/index.html</loc>
-<lastmod>2014-06-25T11:02:24-00:00</lastmod>
+<lastmod>2014-06-25T11:04:17-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>/archives.html</loc>
-<lastmod>2014-06-25T11:02:24-00:00</lastmod>
+<lastmod>2014-06-25T11:04:17-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>/tags.html</loc>
-<lastmod>2014-06-25T11:02:24-00:00</lastmod>
+<lastmod>2014-06-25T11:04:17-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>/categories.html</loc>
-<lastmod>2014-06-25T11:02:24-00:00</lastmod>
+<lastmod>2014-06-25T11:04:17-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -46,7 +46,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>/category/lifi-in-japan.html</loc>
+<loc>/category/ri-ben-sheng-huo.html</loc>
 <lastmod>2013-08-03T20:20:00-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
