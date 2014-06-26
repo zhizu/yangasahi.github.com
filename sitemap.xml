@@ -4,154 +4,154 @@ xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitem
 xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
-<loc>/index.html</loc>
-<lastmod>2014-06-25T20:19:56-00:00</lastmod>
+<loc>yangxu.in/index.html</loc>
+<lastmod>2014-06-26T18:42:28-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/archives.html</loc>
-<lastmod>2014-06-25T20:19:56-00:00</lastmod>
+<loc>yangxu.in/archives.html</loc>
+<lastmod>2014-06-26T18:42:28-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/tags.html</loc>
-<lastmod>2014-06-25T20:19:56-00:00</lastmod>
+<loc>yangxu.in/tags.html</loc>
+<lastmod>2014-06-26T18:42:28-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/categories.html</loc>
-<lastmod>2014-06-25T20:19:56-00:00</lastmod>
+<loc>yangxu.in/categories.html</loc>
+<lastmod>2014-06-26T18:42:28-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/blog.html</loc>
+<loc>yangxu.in/blog.html</loc>
 <lastmod>2014-06-25T09:20:00-00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.7</priority>
 </url>
 
 <url>
-<loc>/find-job.html</loc>
+<loc>yangxu.in/find-job.html</loc>
 <lastmod>2013-12-10T19:20:00-00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.7</priority>
 </url>
 
 <url>
-<loc>/intern-in-japan-two.html</loc>
+<loc>yangxu.in/intern-in-japan-two.html</loc>
 <lastmod>2013-08-03T20:20:00-00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.7</priority>
 </url>
 
 <url>
-<loc>/intern-in-japan-one.html</loc>
+<loc>yangxu.in/intern-in-japan-one.html</loc>
 <lastmod>2013-07-28T23:20:00-00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.7</priority>
 </url>
 
 <url>
-<loc>/live-in-hainan.html</loc>
+<loc>yangxu.in/live-in-hainan.html</loc>
 <lastmod>2012-03-21T20:20:00-00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.7</priority>
 </url>
 
 <url>
-<loc>/category/gong-zuo.html</loc>
+<loc>yangxu.in/category/gong-zuo.html</loc>
 <lastmod>2013-12-10T19:20:00-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/category/ri-ben-sheng-huo.html</loc>
+<loc>yangxu.in/category/ri-ben-sheng-huo.html</loc>
 <lastmod>2013-08-03T20:20:00-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/category/sheng-huo.html</loc>
+<loc>yangxu.in/category/sheng-huo.html</loc>
 <lastmod>2014-06-25T09:20:00-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/tag/nttdocomo.html</loc>
+<loc>yangxu.in/tag/nttdocomo.html</loc>
 <lastmod>2013-12-10T19:20:00-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/tag/hai-nan.html</loc>
+<loc>yangxu.in/tag/hai-nan.html</loc>
 <lastmod>2012-03-21T20:20:00-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/tag/sheng-huo.html</loc>
+<loc>yangxu.in/tag/sheng-huo.html</loc>
 <lastmod>2012-03-21T20:20:00-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/tag/ri-ben.html</loc>
+<loc>yangxu.in/tag/ri-ben.html</loc>
 <lastmod>2013-08-03T20:20:00-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/tag/zhao-gong-zuo.html</loc>
+<loc>yangxu.in/tag/zhao-gong-zuo.html</loc>
 <lastmod>2013-12-10T19:20:00-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/tag/xue-xi.html</loc>
+<loc>yangxu.in/tag/xue-xi.html</loc>
 <lastmod>2012-03-21T20:20:00-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/tag/bo-ke.html</loc>
+<loc>yangxu.in/tag/bo-ke.html</loc>
 <lastmod>2014-06-25T09:20:00-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/tag/shi-xi.html</loc>
+<loc>yangxu.in/tag/shi-xi.html</loc>
 <lastmod>2013-08-03T20:20:00-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/tag/ban-jia.html</loc>
+<loc>yangxu.in/tag/ban-jia.html</loc>
 <lastmod>2014-06-25T09:20:00-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/author/yang-xu.html</loc>
+<loc>yangxu.in/author/yang-xu.html</loc>
 <lastmod>2014-06-25T09:20:00-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
