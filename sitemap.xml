@@ -5,28 +5,28 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://yangxu.in/index.html</loc>
-<lastmod>2014-06-29T09:36:11-00:00</lastmod>
+<lastmod>2014-06-29T10:16:58-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://yangxu.in/archives.html</loc>
-<lastmod>2014-06-29T09:36:11-00:00</lastmod>
+<lastmod>2014-06-29T10:16:58-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://yangxu.in/tags.html</loc>
-<lastmod>2014-06-29T09:36:11-00:00</lastmod>
+<lastmod>2014-06-29T10:16:58-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://yangxu.in/categories.html</loc>
-<lastmod>2014-06-29T09:36:11-00:00</lastmod>
+<lastmod>2014-06-29T10:16:58-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -67,6 +67,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+<loc>http://yangxu.in/JavaWeb.html</loc>
+<lastmod>2012-04-13T17:13:00-00:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+
+<url>
 <loc>http://yangxu.in/live-in-hainan.html</loc>
 <lastmod>2012-03-21T20:20:00-00:00</lastmod>
 <changefreq>monthly</changefreq>
@@ -76,6 +83,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>http://yangxu.in/category/gong-zuo.html</loc>
 <lastmod>2013-12-10T19:20:00-00:00</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://yangxu.in/category/javaweb.html</loc>
+<lastmod>2012-04-13T17:13:00-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -95,8 +109,22 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+<loc>http://yangxu.in/tag/xue-xi.html</loc>
+<lastmod>2012-03-21T20:20:00-00:00</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
 <loc>http://yangxu.in/tag/nttdocomo.html</loc>
 <lastmod>2013-12-10T19:20:00-00:00</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://yangxu.in/tag/yuan-chuang-javaweb.html</loc>
+<lastmod>2012-04-13T17:13:00-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -130,8 +158,8 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>http://yangxu.in/tag/xue-xi.html</loc>
-<lastmod>2012-03-21T20:20:00-00:00</lastmod>
+<loc>http://yangxu.in/tag/ji-zhu.html</loc>
+<lastmod>2012-04-13T17:13:00-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
