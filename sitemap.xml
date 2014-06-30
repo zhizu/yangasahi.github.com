@@ -5,28 +5,28 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://yangxu.in/index.html</loc>
-<lastmod>2014-06-29T18:41:58-00:00</lastmod>
+<lastmod>2014-06-30T15:25:17-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://yangxu.in/archives.html</loc>
-<lastmod>2014-06-29T18:41:58-00:00</lastmod>
+<lastmod>2014-06-30T15:25:17-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://yangxu.in/tags.html</loc>
-<lastmod>2014-06-29T18:41:58-00:00</lastmod>
+<lastmod>2014-06-30T15:25:17-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://yangxu.in/categories.html</loc>
-<lastmod>2014-06-29T18:41:58-00:00</lastmod>
+<lastmod>2014-06-30T15:25:17-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -36,6 +36,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <lastmod>2013-04-18T00:00:00-00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.3</priority>
+</url>
+
+<url>
+<loc>http://yangxu.in/nba.html</loc>
+<lastmod>2014-06-30T15:20:00-00:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
 </url>
 
 <url>
@@ -90,6 +97,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>http://yangxu.in/category/javaweb.html</loc>
 <lastmod>2012-04-13T17:13:00-00:00</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://yangxu.in/category/nba.html</loc>
+<lastmod>2014-06-30T15:20:00-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -158,8 +172,22 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+<loc>http://yangxu.in/tag/xiu-sai-qi.html</loc>
+<lastmod>2014-06-30T15:20:00-00:00</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
 <loc>http://yangxu.in/tag/ji-zhu.html</loc>
 <lastmod>2012-04-13T17:13:00-00:00</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://yangxu.in/tag/nba.html</loc>
+<lastmod>2014-06-30T15:20:00-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -187,7 +215,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://yangxu.in/author/yang-xu.html</loc>
-<lastmod>2014-06-25T09:20:00-00:00</lastmod>
+<lastmod>2014-06-30T15:20:00-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
