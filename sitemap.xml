@@ -5,28 +5,28 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://yangxu.in/index.html</loc>
-<lastmod>2014-06-30T15:25:17-00:00</lastmod>
+<lastmod>2014-07-11T08:44:45-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://yangxu.in/archives.html</loc>
-<lastmod>2014-06-30T15:25:17-00:00</lastmod>
+<lastmod>2014-07-11T08:44:45-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://yangxu.in/tags.html</loc>
-<lastmod>2014-06-30T15:25:17-00:00</lastmod>
+<lastmod>2014-07-11T08:44:45-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://yangxu.in/categories.html</loc>
-<lastmod>2014-06-30T15:25:17-00:00</lastmod>
+<lastmod>2014-07-11T08:44:45-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -36,6 +36,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <lastmod>2013-04-18T00:00:00-00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.3</priority>
+</url>
+
+<url>
+<loc>http://yangxu.in/2014-07-10－1.html</loc>
+<lastmod>2014-07-10T19:20:00-00:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
 </url>
 
 <url>
@@ -117,7 +124,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://yangxu.in/category/sheng-huo.html</loc>
-<lastmod>2014-06-25T09:20:00-00:00</lastmod>
+<lastmod>2014-07-10T19:20:00-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -132,6 +139,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>http://yangxu.in/tag/nttdocomo.html</loc>
 <lastmod>2013-12-10T19:20:00-00:00</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://yangxu.in/tag/kai-che.html</loc>
+<lastmod>2014-07-10T19:20:00-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -160,6 +174,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>http://yangxu.in/tag/ri-ben.html</loc>
 <lastmod>2013-08-03T20:20:00-00:00</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://yangxu.in/tag/jian-wen.html</loc>
+<lastmod>2014-07-10T19:20:00-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -215,7 +236,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://yangxu.in/author/yang-xu.html</loc>
-<lastmod>2014-06-30T15:20:00-00:00</lastmod>
+<lastmod>2014-07-10T19:20:00-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
