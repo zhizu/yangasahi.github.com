@@ -5,28 +5,28 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://yangxu.in/index.html</loc>
-<lastmod>2014-07-16T16:51:02-00:00</lastmod>
+<lastmod>2014-07-16T17:34:53-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://yangxu.in/archives.html</loc>
-<lastmod>2014-07-16T16:51:02-00:00</lastmod>
+<lastmod>2014-07-16T17:34:53-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://yangxu.in/tags.html</loc>
-<lastmod>2014-07-16T16:51:02-00:00</lastmod>
+<lastmod>2014-07-16T17:34:53-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://yangxu.in/categories.html</loc>
-<lastmod>2014-07-16T16:51:02-00:00</lastmod>
+<lastmod>2014-07-16T17:34:53-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -39,7 +39,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>http://yangxu.in/2014-07-16.html</loc>
+<loc>http://yangxu.in/lastfriends.html</loc>
 <lastmod>2014-07-16T15:33:00-00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.7</priority>
